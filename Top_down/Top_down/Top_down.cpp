@@ -24,6 +24,7 @@ void PrintTree(TreeNode* treeNode, int depth);
 char ch;
 
 int main() {
+    cout << "This is a GitTest!\n";
     cout << "输入：";
     cin >> sentence;
     cout << endl;
